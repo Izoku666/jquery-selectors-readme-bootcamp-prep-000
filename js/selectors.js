@@ -16,6 +16,7 @@ function ninjaBabySelector()
 
 function divSelector()
 {
-
+  const a = $('img');
+  return [a[0] , a[1]];
   //return [$('div:first') , $('div:last')];
 }
