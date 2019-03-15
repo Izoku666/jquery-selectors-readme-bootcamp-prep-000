@@ -15,3 +15,6 @@ function ninjaBabySelector()
 }
 
 function divSelector()
+{
+  
+}
