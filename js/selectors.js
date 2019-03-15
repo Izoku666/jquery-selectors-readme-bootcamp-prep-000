@@ -16,9 +16,6 @@ function ninjaBabySelector()
 
 function divSelector()
 {
-  var d = [];
-  d.push($('div'));
-  d.push($('div:last'));
-  return d;
+
   //return [$('div:first') , $('div:last')];
 }
