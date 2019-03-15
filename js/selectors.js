@@ -23,5 +23,5 @@ function divSelector()
 
 function firstListItem()
 {
-  return $('ul li')[0];
+  //return $('ul li')[0];
 }
