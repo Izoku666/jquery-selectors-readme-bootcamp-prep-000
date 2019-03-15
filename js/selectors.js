@@ -9,4 +9,7 @@ function lastImageSelector()
   return $('img:last');
 }
 
-function
+function ninjaBabySelector()
+{
+  return $('img');
+}
