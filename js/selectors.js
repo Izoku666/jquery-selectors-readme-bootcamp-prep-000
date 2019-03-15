@@ -6,6 +6,5 @@ function paragraphSelector()
 
 function lastImageSelector()
 {
-  var c = $('img');
-  return c[c.length];
+  return $('img:last');
 }
