@@ -20,3 +20,8 @@ function divSelector()
   return [a[0] , a[1]];
   //return [$('div:first') , $('div:last')];
 }
+
+function firstListItem()
+{
+  
+}
